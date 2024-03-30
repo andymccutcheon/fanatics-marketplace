@@ -1,0 +1,63 @@
+/** ABC Diatype Normal **/
+@font-face {
+  font-display: fallback;
+  font-family: ABC Diatype;
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-Regular.woff2") format('woff2'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-Regular.woff") format('woff'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-Regular.otf") format('opentype');
+}
+
+/** ABC Diatype Bold **/
+@font-face {
+  font-display: fallback;
+  font-family: ABC Diatype;
+  font-weight: bold;
+  font-style: normal;
+  src: url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-Bold.woff2") format('woff2'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-Bold.woff") format('woff'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-Bold.otf") format('opentype');
+}
+
+/** ABC Diatype Italic **/
+@font-face {
+  font-display: fallback;
+  font-family: ABC Diatype;
+  font-weight: normal;
+  font-style: italic;
+  src: url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-RegularItalic.woff2") format('woff2'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-RegularItalic.woff") format('woff'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-RegularItalic.otf") format('opentype');
+}
+
+/** ABC Diatype Italic Bold **/
+@font-face {
+  font-display: fallback;
+  font-family: ABC Diatype;
+  font-weight: bold;
+  font-style: italic;
+  src: url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-BoldItalic.woff2") format('woff2'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-BoldItalic.woff") format('woff'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatype-BoldItalic.otf") format('opentype');
+}
+
+/** ABC Diatype Mono Bold **/
+@font-face {
+  font-display: fallback;
+  font-family: ABC Diatype Mono;
+  font-weight: bold;
+  font-style: normal;
+  src: url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatypeMono-Bold.woff2") format('woff2'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatypeMono-Bold.woff") format('woff'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatypeMono-Bold.otf") format('opentype');
+}
+@font-face {
+  font-display: fallback;
+  font-family: ABC Diatype Mono;
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatypeMono-Bold.woff2") format('woff2'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatypeMono-Bold.woff") format('woff'),
+    url("https://s3-us-west-2.amazonaws.com/pwccauctions/website/fonts/ABCDiatypeMono-Bold.otf") format('opentype');
+}
