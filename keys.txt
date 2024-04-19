@@ -1,3 +1,7 @@
 Sanbox 2
 Api-Key
 d8a90a8e06fc4c77878f2f5194aad5c5
+
+Sendgrid
+Api-Key
+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
